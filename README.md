@@ -8,3 +8,4 @@ Jupyter notebooks from my blog posts at [Puget Systems](https://www.pugetsystems
 - **df_98039.csv** -- King county house sales data for zipcode 98039, price and sqft_living.
 - **kc_house_data.csv** -- King county house sales data, full.
 - **ML-LR-part5.ipynb** -- **Vectorization and Matrix Equations** Derivation of the matrix equations including the gradient derivation and solution with the Moore-Penrose inverse.
+- - **ML-LR-part6.ipynb** -- **Over/Under fitting and Non-Linear Feature Variables** Last post in the linear regression series. Examples of using non-linear feature variables and the problem of over-fitting.
