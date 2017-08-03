@@ -8,4 +8,7 @@ Jupyter notebooks from my blog posts at [Puget Systems](https://www.pugetsystems
 - **df_98039.csv** -- King county house sales data for zipcode 98039, price and sqft_living.
 - **kc_house_data.csv** -- King county house sales data, full.
 - **ML-LR-part5.ipynb** -- **Vectorization and Matrix Equations** Derivation of the matrix equations including the gradient derivation and solution with the Moore-Penrose inverse.
-- - **ML-LR-part6.ipynb** -- **Over/Under fitting and Non-Linear Feature Variables** Last post in the linear regression series. Examples of using non-linear feature variables and the problem of over-fitting.
+- **ML-LR-part6.ipynb** -- **Over/Under fitting and Non-Linear Feature Variables** Last post in the linear regression series. Examples of using non-linear feature variables and the problem of over-fitting.
+- **ML-Logistic-Regression-theory.ipynb** -- **Logistic Regression Theory** Discussion of the sigmoid function, how things work and derivation of equations including the gradient of the cost function in matrix form.
+- **ML-Logistic-Regression-Regularization.ipynb** -- **Logistic and Linear Regression Regularization** Regularization to avoid over-fitting.
+- **CHDAGE.zip** Data set of presence or absence of coronary heart disease by age. One of the Logistic Regression examples ...
