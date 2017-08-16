@@ -12,3 +12,4 @@ Jupyter notebooks from my blog posts at [Puget Systems](https://www.pugetsystems
 - **ML-Logistic-Regression-theory.ipynb** -- **Logistic Regression Theory** Discussion of the sigmoid function, how things work and derivation of equations including the gradient of the cost function in matrix form.
 - **ML-Logistic-Regression-Regularization.ipynb** -- **Logistic and Linear Regression Regularization** Regularization to avoid over-fitting.
 - **CHDAGE.zip** Data set of presence or absence of coronary heart disease by age. One of the Logistic Regression examples ...
+- **ML-Logistic-Regression-examples1** -- **2D data fit with multinomial model and 0 1 digits classification on MNIST dataset**  Also, some bug fixes to functions from the regularization notebook. Use these instead!  
