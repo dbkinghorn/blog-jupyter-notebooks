@@ -13,3 +13,4 @@ Jupyter notebooks from my blog posts at [Puget Systems](https://www.pugetsystems
 - **ML-Logistic-Regression-Regularization.ipynb** -- **Logistic and Linear Regression Regularization** Regularization to avoid over-fitting.
 - **CHDAGE.zip** Data set of presence or absence of coronary heart disease by age. One of the Logistic Regression examples ...
 - **ML-Logistic-Regression-examples1** -- **2D data fit with multinomial model and 0 1 digits classification on MNIST dataset**  Also, some bug fixes to functions from the regularization notebook. Use these instead!  
+- **ML-Logistic-Regression-multinomial -- **Logistic Regression: Multi-Class (Multinomial) -- Full MNIST digits classification example**  Multi-class classification with MNIST digits example
